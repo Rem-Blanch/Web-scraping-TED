@@ -1,14 +1,4 @@
----
-title: 'Dataset: TED TALKS'
-author: "Blanch Torras, Rem"
-date: "13 de Abril de 2020"
-output: pdf_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
+# Práctica 1: Web scraping
 ## Descripción
 
 El conjunto de datos generado como parte de esta actividad práctica reúne diferentes características de las charlas realizadas en los eventos de TED.
